@@ -1,0 +1,1 @@
+URL_BCR_DOLAR = 'https://www.sbs.gob.pe/app/pp/sistip_portal/paginas/publicacion/tipocambiopromedio.aspx'
